@@ -1,10 +1,6 @@
 Industry-Grade Inventory & Demand Forecasting System
 A comprehensive inventory management solution with advanced demand forecasting capabilities using ARIMA and machine learning models. Built with Python and Tkinter for small to medium-sized businesses.
 
-https://img.shields.io/badge/Python-3.8%252B-blue
-https://img.shields.io/badge/License-MIT-green
-https://img.shields.io/badge/Status-Production%2520Ready-brightgreen
-
 📋 Table of Contents
 Overview: This application provides a complete inventory management system with intelligent demand forecasting capabilities. It helps businesses optimize stock levels, reduce carrying costs, and prevent stockouts through data-driven insights and automated reorder suggestions.
 

@@ -1,0 +1,6 @@
+product_id,product_name,current_stock,reorder_level,cost_price
+P001,Laptop,45,50,800.0
+P002,Mouse,120,100,25.0
+P003,Keyboard,85,80,45.0
+P004,Monitor,30,25,300.0
+P005,Headphones,95,90,75.0
